@@ -1,2 +1,2 @@
-# -Innoscripta-Task-Frontend
+# Innoscripta-Task-Frontend
 Frontend Work
